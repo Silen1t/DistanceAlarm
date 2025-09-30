@@ -17,7 +17,6 @@ Built with async Rust and the Embassy framework, the system delivers reliable, n
 - **Configurable Alert System** - Customizable alarm triggers based on distance and movement patterns
 - **Non-blocking Operation** - Async architecture ensures responsive monitoring without system delays
 
-
 ## 🛠️ Technologies Used
 
 - **Rust** - Systems programming language for embedded development
